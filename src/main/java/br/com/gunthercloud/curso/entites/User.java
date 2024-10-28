@@ -105,10 +105,4 @@ public class User implements Serializable{
 		return orders;
 	}
 
-//	public void addOrders(Order orders) {
-//		this.orders.add(orders);
-//	}
-	
-	
-	
 }
