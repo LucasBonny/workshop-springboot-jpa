@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import br.com.gunthercloud.curso.entites.Order;
-import br.com.gunthercloud.curso.entites.User;
 import br.com.gunthercloud.curso.repositories.OrderRepository;
 
 @Service
